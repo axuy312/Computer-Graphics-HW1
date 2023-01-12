@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Axuy312\Desktop\CG_hw1\hw1\src\main.cpp(218,47): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Axuy312\Desktop\CG_hw1\hw1\src\main.cpp(219,46): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Axuy312\Desktop\CG_hw1\hw1\src\main.cpp(220,46): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  HW1.vcxproj -> C:\Users\Axuy312\Desktop\CG_hw1\hw1\bin\HW1.exe
